@@ -1,0 +1,5 @@
+{
+  "name": "Sazz Kitchen & Lounge",
+  "description": "Premium luxury restaurant and lounge in Coimbatore offering fine dining and exceptional ambiance.",
+  "requestFramePermissions": ["geolocation"]
+}
